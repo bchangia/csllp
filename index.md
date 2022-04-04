@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to the [Changia Solutions LLP Wiki!](https://changias.com)!
 
-You can use the [editor on GitHub](https://github.com/bchangia/csllp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We were **established in 2014**, and have work experience for more than 20+ years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are dedicated to our **customer's growth** in the web world, which helps our customers get an online presence and grow their business.
 
-### Markdown
+We believe in making our **customer's websites unique and giving them a corporate feel**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We deal in the following **products **which help our customers grow and automate their working lifestyle.
+1. [Digital Visiting card - GoGreen.Cards](https://gogreen.cards)
+2. [Bulk SMS Service](https://changias.com) - Now market your products using bulk SMS in India
+3. [Hosting Plans](https://changias.com) - Hosting services, with free email IDs with 1 GB each
+4. [SSL Certificates](https://changias.com) - Secure your website now, All search engines are no more indexing non-SSL certified websites.
+5. [DSC (Digital Certificates)](https://changias.com) - Class 3 and DGFT
+6. [ClipHunt](https://changias.com) - Make marketing videos online on the go with ease no coding or professional experience is required.
+7. [WordPress Hosting](https://changias.com)
+8. Customized website
+9. SAAS ERP Solutions
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bchangia/csllp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are located in Siliguri, West Bengal - # No 1 Hosting solution provider
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+info@changias.com
+www.changias.com
